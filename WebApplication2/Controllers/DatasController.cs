@@ -12,7 +12,9 @@ namespace WebApplication2.Controllers
         {
             Session["LabID"] = 1;
 
-            ViewBag.Message = " Data's and Client Your application description page.";
+           // ViewBag.Message = " Data's and Client Your application description page.";
+
+            ViewBag.Message = " Data's  MDI dell  and Client Your application description page.";
 
             return View();
         }
