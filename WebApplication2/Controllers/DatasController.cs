@@ -14,7 +14,7 @@ namespace WebApplication2.Controllers
 
            // ViewBag.Message = " Data's and Client Your application description page.";
 
-            ViewBag.Message = " Data's  MDI dell  and Client Your application description page.";
+            ViewBag.Message = " Data's 2  MDI dell  and Client Your application description page.";
 
             return View();
         }
